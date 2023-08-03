@@ -1,4 +1,6 @@
-Credit model prediction
+Credit card acceptance prediction model
+Credit Risk
+
 Author: Sergio Quintero
 Language: Python
 This repository contains the development of a Credit card acceptance prediction model using Python. The project's goal is to analyze and model the probability of Credit card acceptance
