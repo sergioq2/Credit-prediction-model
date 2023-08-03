@@ -1,0 +1,13 @@
+{
+    "Edad": 57, 
+    "Tipo_Trabajo": "servicios", 
+    "Estado_Civil": "casado", 
+    "Educacion": "bachillerato", 
+    "Contacto": "telefono fijo", 
+    "Mes": "may", 
+    "Campana": 1, 
+    "Dias_Ultima_Camp": 999, 
+    "No_Contactos": 0, 
+    "Resultado_Anterior": "sin contacto", 
+    "emp_var_rate": 1.1
+}
